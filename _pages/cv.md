@@ -12,12 +12,11 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* M.S. in AI, Beijing Institute of Technology, 2026.9-now
-* B.S. in Software Engineering, Yunnan University, 2022.9-2026.7
+* M.S. in AI, Beijing Institute of Technology, 2026.9 - now
+* B.S. in Software Engineering, Yunnan University, 2022.9 - 2026.7
 
-CV
-======
-[cv.pdf]({{ base_path }}/files/cv.pdf){: .btn .btn--primary }
+[中文简历]({{ base_path }}/files/cv.pdf){: .btn .btn--primary }
+[CV]({{ base_path }}/files/cv_en.pdf){: .btn .btn--primary }
 
 <!-- Work experience
 ======
