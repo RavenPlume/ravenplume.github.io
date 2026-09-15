@@ -11,11 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.S. in AI, Beijing Institute of Technology, 2026.9-now
+* B.S. in Software Engineering, Yunnan University, 2022.9-2026.7
 
-Work experience
+CV
+======
+[cv.pdf]({{ base_path }}/files/cv.pdf){: .btn .btn--primary }
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
